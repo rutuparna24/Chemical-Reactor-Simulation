@@ -24,7 +24,7 @@ Usage
 
 Clone of the repository:
 
-git clone https://github.com/rutuparna24/Chemical_Reactor_Simulation.git
+git clone https://github.com/rutuparna24/Chemical-Reactor-Simulation.git
 
 Navigate to the project directory:
 
