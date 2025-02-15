@@ -22,9 +22,9 @@ pip install numpy scipy matplotlib
 
 Usage
 
-Clone the repository:
+Clone of the repository:
 
-git clone https://github.com/yourusername/Chemical_Reactor_Simulation.git
+git clone https://github.com/rutuparna24/Chemical_Reactor_Simulation.git
 
 Navigate to the project directory:
 
